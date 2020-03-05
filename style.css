@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://exechomeinspections.com/wp-content/uploads/2019/03/plastic-water-bottles-pollution-ocean-450w-1211334679.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+.title-heading h1{
+    color: rgb(255, 255, 255);
+    margin: 0;
+    text-align: center;
+    font-family: 'Southampton';
+    font-size: 5em;
+}
+
